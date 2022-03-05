@@ -1,0 +1,17 @@
+html,body{
+        width: 100%;
+        background: rgb(59,181,187);
+background: radial-gradient(circle, rgba(59,181,187,1) 30%, rgba(148,187,233,1) 100%);
+    }
+.UI{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+form{
+    text-align: center;
+    border-style:solid;
+    margin-left: 200px;
+    margin-right: 200px;
+}
